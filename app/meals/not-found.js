@@ -3,8 +3,8 @@ import React from 'react'
 function NotFound() {
   return (
     <main className='not-found'>
-      <h1>Not found</h1>
-      <p>Could not find requested resource. Please try later!</p>
+      <h1>Meal not found</h1>
+      <p>Unfortunately, the requested meal could not be found.</p>
     </main>
   )
 }
